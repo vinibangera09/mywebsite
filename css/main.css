@@ -1,0 +1,35 @@
+.site-header {
+    background-color: #e2ef63;
+    color: #67241f;
+    height: 120vh;
+    height:1500px;
+    font-family:monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.site-header-content{
+    margin:100px
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height:200px;
+    width: 200px; 
+    align-items: center;
+    box-shadow: #000 2px 5px 5px
+}
+
+.anchor-link {
+    color: #67241f;
+}
+
+body {
+    margin: 0
+}
+
+.instagram-link{
+    color: #67241f;
+}
